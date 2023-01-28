@@ -1,0 +1,3 @@
+C:\Users\Amos\source\repos\Pattern A and B Stars\Debug\Pattern A and B Stars.exe
+C:\Users\Amos\source\repos\Pattern A and B Stars\Debug\Pattern A and B Stars.pdb
+C:\Users\Amos\Desktop\Programming Stuff\Pattern A and B Stars\Debug\Pattern A and B Stars.exe
