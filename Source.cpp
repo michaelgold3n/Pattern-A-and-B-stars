@@ -1,9 +1,3 @@
-/*Lab Assignment_B.Green.cpp
-Bryce Green
-2/20/2021
-Version 1.6
-The program displays two patterns side by side starting with a for loop and within that loop
-there are three more for loops that print out the plus signs within a specific parameter.*/
 
 #include <iostream>
 using namespace std;
